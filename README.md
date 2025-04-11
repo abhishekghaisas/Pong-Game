@@ -7,8 +7,8 @@
 A Java-based two-player Pong game that recreates the classic table tennis experience with modern features, including customizable settings, user profiles, and score tracking.
 
 <div align="center">
-  <img src="docs/images/screenshots/welcome_screen.png" alt="Welcome Screen" width="400">
-  <img src="docs/images/screenshots/gameplay.png" alt="Gameplay" width="400">
+  <img src="images/screenshots/welcome_screen.png" alt="Welcome Screen" width="400">
+  <img src="images/screenshots/gameplay.png" alt="Gameplay" width="400">
 </div>
 
 ## Table of Contents
@@ -80,7 +80,7 @@ The Pong Game is a simple yet engaging two-player game where players control pad
 This project follows the Model-View-Controller (MVC) architectural pattern, which separates the application into three interconnected components:
 
 <div align="center">
-  <img src="docs/images/mvc_architecture.png" alt="MVC Architecture" width="700">
+  <img src="images/mvc_architecture.png" alt="MVC Architecture" width="700">
 </div>
 
 ### Key Components:
@@ -116,19 +116,19 @@ The game transitions through various game states to manage the flow of gameplay 
 
 ### Login & Sign Up
 <div align="center">
-  <img src="docs/images/screenshots/login_and_signup.png" alt="Login Screen" width="600">
+  <img src="images/screenshots/login_and_signup.png" alt="Login Screen" width="600">
 </div>
 
 
 ### Settings
 The settings screen allows players to customize their game experience:
 <div align="center">
-  <img src="docs/images/screenshots/settings_screen.png" alt="Settings Screen" width="600">
+  <img src="images/screenshots/settings_screen.png" alt="Settings Screen" width="600">
 </div>
 
 ### Gameplay
 <div align="center">
-  <img src="docs/images/screenshots/gameplay.png" alt="Gameplay" width="600">
+  <img src="images/screenshots/gameplay.png" alt="Gameplay" width="600">
 </div>
 
 ## Setup Instructions
@@ -205,7 +205,7 @@ If you encounter errors while running the SQL script:
 The game uses a MySQL database to store user profiles and game scores:
 
 <div align="center">
-  <img src="docs/images/database_schema.png" alt="Database Schema" width="700">
+  <img src="images/database_schema.png" alt="Database Schema" width="700">
 </div>
 
 ### Key Tables:
